@@ -2,8 +2,8 @@
 Classic snake game
 
 # Requirements  
-*Python 3.x
-*Pygame
+* Python 3.x
+* Pygame
 
 # Run
 Run main.py file using:  
